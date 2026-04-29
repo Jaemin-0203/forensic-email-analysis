@@ -1,0 +1,11 @@
+email_id,sender,receiver,timestamp,subject,keyword_category,outside_business_hours
+1,employee_a@company.com,employee_b@company.com,2026-04-01 22:30,Urgent payment confirmation,payment,Yes
+2,employee_a@company.com,external_vendor@email.com,2026-04-02 23:10,Confidential file attached,confidential,Yes
+3,employee_c@company.com,employee_d@company.com,2026-04-03 09:15,Weekly operations update,normal,No
+4,employee_d@company.com,external_vendor@email.com,2026-04-04 02:00,File transfer completed,transfer,Yes
+5,employee_b@company.com,employee_a@company.com,2026-04-04 14:20,Contract review follow up,contract,No
+6,employee_a@company.com,employee_c@company.com,2026-04-05 21:45,Payment issue escalation,payment,Yes
+7,employee_e@company.com,employee_f@company.com,2026-04-06 10:30,Team meeting notes,normal,No
+8,employee_d@company.com,external_vendor@email.com,2026-04-07 23:55,Confidential transfer request,confidential,Yes
+9,employee_a@company.com,employee_b@company.com,2026-04-08 08:45,Invoice clarification,payment,No
+10,employee_c@company.com,employee_a@company.com,2026-04-09 18:30,Document review request,review,Yes
