@@ -42,6 +42,10 @@ Initial simulated findings include:
 - Several emails occurred outside normal business hours
 - Certain subjects contained sensitive keywords such as "confidential," "payment," and "transfer"
 - Specific senders showed repeated activity requiring further review
+- Multiple emails were sent outside normal business hours, indicating potential irregular activity
+- Certain keyword categories such as "confidential," "payment," and "transfer" appeared repeatedly
+- Specific users demonstrated higher frequency of suspicious communications
+- These records would be prioritized for further legal or compliance review
 
 ## Relevance to eDiscovery & Investigations
 This project reflects core eDiscovery and investigation workflows, including:
